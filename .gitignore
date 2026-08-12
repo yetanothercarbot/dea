@@ -1,0 +1,10 @@
+*    
+!*/
+
+!.gitignore
+!*.md
+!*.ipynb
+!*.png
+!*.jpg
+
+.ipynb_checkpoints/
